@@ -5,3 +5,4 @@ facenet-pytorch
 Pillow
 numpy
 jsonschema
+streamlit-webrtc
